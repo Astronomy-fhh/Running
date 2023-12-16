@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\UE\\project\\Running\\Intermediate\\Source\\Running.Build.cs",
+		"D:\\UE\\project\\Running\\Intermediate\\Source\\Running.Target.cs",
+		"D:\\UE\\project\\Running\\Intermediate\\Source\\RunningClient.Target.cs",
+		"D:\\UE\\project\\Running\\Intermediate\\Source\\RunningEditor.Target.cs",
+		"D:\\UE\\project\\Running\\Intermediate\\Source\\RunningServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
